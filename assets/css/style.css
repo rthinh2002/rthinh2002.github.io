@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: var(--color-base2);
+    background-image: linear-gradient(to right, #2b5876, #4e4376);
     color: var(--color-body);
     font-family: var(--font-base), sans-serif;
 }
