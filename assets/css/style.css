@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #2b5876, #4e4376);
+    background-color: #0b3d5e;
     color: var(--color-body);
     font-family: var(--font-base), sans-serif;
 }
@@ -93,7 +93,7 @@ img {
 
 /* Navigation Bar */
 .navbar {
-    background-color: #033f47;
+    background-color: white;
 }
 
 .navbar .nav-link {
@@ -115,7 +115,7 @@ img {
         min-height: 100vh;
         width: var(--sidbar-width);
         background-size: cover;
-        background: linear-gradient(rgba(26, 31, 34, 0.85), rgba(26, 31, 34, 0.85)), url(../img/photo-1603288967520-f3e04381dc02\ \(1\).jfif);
+        background: linear-gradient(rgba(26, 31, 34, 0.8), rgba(26, 31, 34, 0.95)), url(../img/photo-1603288967520-f3e04381dc02\ \(1\).jfif);
         background-position: center;
     }
 
